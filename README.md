@@ -1,6 +1,5 @@
-# cac-24103 Fullstack Java
 # Trabajo práctico integrador
-## Comisión 24103
+## Comisión 24103 FullStack Java
 ## Grupos n° 16: 
 ## Pre-Entrega Integrador Front:
 Replicamos la siguiente Página Web con lo visto en clase hasta el momento, puede ser código nativo o Bootstrap
