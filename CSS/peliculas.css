@@ -1,0 +1,76 @@
+@import url(/CSS/main.css);
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #FFF;
+    background-color: #181419;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.trailer-info {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+
+    .info {
+
+        .social {
+
+            .social-list {
+                display: flex;
+                justify-content: space-between;
+                gap: 60px;
+                margin-bottom: 2rem;
+
+                .social-list-item {
+
+                    a {
+                        font-size: 2.5rem;
+                        color: #FFF;
+                    }
+                }
+            }
+        }
+
+        .more-info {
+
+            table {
+                width: 100%;
+
+                caption {
+                    font-size: 1.2rem;
+                }
+
+                tbody {
+
+                    tr {
+
+                        td {
+                            font-size: 1.2rem;
+                            padding: 10px 0px;
+                            width: 55%;
+                        }
+
+                        .bold {
+                            font-weight: bold;
+                        }
+                    }
+                }
+
+            }
+        }
+    }
+}
