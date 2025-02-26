@@ -2,7 +2,9 @@
 ## Comisión 24103 FullStack Java
 ## Fecha entrega: 26/4
 ## Grupo 16:
-* ** Integrantes:**
+* **I am interested in Web designing, databases and testing**
+
+* **Integrantes:**
 - Anderson David Marles Sánchez
 - Tarazona Esau
 - Aragón José Esteban
