@@ -1,4 +1,4 @@
-# Trabajo práctico integrador
+# Trabajo práctico integrador Front.
 ## Comisión 24103 FullStack Java
 ## Fecha entrega: 26/4
 ## Grupo 16:
