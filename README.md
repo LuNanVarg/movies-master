@@ -3,11 +3,11 @@
 ## Fecha entrega: 26/4
 ## Grupo 16:
 * **Integrantes:**
-- Anderson David Marles Sánchez
-- Tarazona Esau
-- Aragón José Esteban
-- Ciappina Jeremias
-- Vargas Nancy
+  - Anderson David Marles Sánchez
+  - Tarazona Esau
+  - Aragón José Esteban
+  - Ciappina Jeremias
+  - Vargas Nancy
   
 ## Pre-Entrega Integrador Front:
 * Replicamos la siguiente Página Web con lo visto en clase hasta el momento.
