@@ -2,6 +2,8 @@
 ## 🎬Movies Master - Proyecto de Análisis de Películas
 
  **Comisión: 24103 | FullStack Java**
+
+ **Profesor: Facundo Coronel**
  
  **Fecha de entrega: 26/4**
  
