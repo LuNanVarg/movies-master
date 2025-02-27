@@ -1,18 +1,27 @@
-# Trabajo práctico integrador Front.
-## Comisión 24103 FullStack Java
-## Fecha entrega: 26/4
-## Grupo 16:
+# TP Integrador Frontend.
+## 🎬Movies Master - Proyecto de Análisis de Películas
+
+ **Comisión: 24103 | FullStack Java**
+ 
+ **Fecha de entrega: 26/4**
+ 
+### **Grupo 16:**
 * **Integrantes:**
   - Anderson David Marles Sánchez
   - Tarazona Esau
   - Aragón José Esteban
   - Ciappina Jeremias
   - Vargas Nancy
-  
+
+---
+
 ## Pre-Entrega Integrador Front:
-* Replicamos la siguiente Página Web con lo visto en clase (cac-24103 Full Stack Java) hasta el momento.
-* Link de la entrega: https://elevatuespiritu.com/index.html  
-* **Utilizamos:**
+* En esta pre-entrega replicamos la siguiente página web con lo que hemos aprendido en la clase de **Codo a Codo 24103 Full Stack Java** hasta el momento.
+* Link de la entrega: https://elevatuespiritu.com/index.html
+
+---
+
+### **🛠️Herramientas Utilizadas**
    
 <p align="center">
   &emsp;
@@ -38,3 +47,47 @@
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black"/>
    </a>
 </p>
+
+### **📂 Estructura del Proyecto**
+📦 Movies-Master  
+ ├── 📄 index.html            # Página principal replicada  
+ ├── 📂 css/                  # Archivos de estilo CSS  
+ ├── 📂 js/                   # Archivos JavaScript  
+ ├── 📄 README.md             # Este archivo con la descripción del proyecto  
+ └── 📄 requirements.txt      # Lista de dependencias para el entorno (si aplica)
+
+---
+### **🚀 Cómo Ejecutarlo**
+  - Cloná el repositorio en tu máquina local:
+git clone https://github.com/LuNanVarg/movies-master.git
+  - Abri el archivo index.html en tu navegador para ver la página replicada.
+
+
+### **📚 Referencias y Recursos**
+  - [Documentación de HTML](https://www.w3.org/html/)
+  - [Documentación de CSS](https://www.w3schools.com/css/)
+  - [Bootstrap](https://getbootstrap.com/)
+  - [JavaScript en MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [Visual Studio](https://code.visualstudio.com/)
+
+
+### **📞 Contacto**
+   **Desarrollado por:** Nancy Vargas, Anderson David Marles Sánchez, Tarazona Esau, Aragón José Esteban, Ciappina Jeremias
+📧 [LinkedIn](https://www.linkedin.com/in/vargasnancy)
+
+
+### **📜 Licencia**
+Este proyecto está bajo la licencia MIT – Podés utilizarlo y modificarlo libremente.
+
+
+### **🔜 Próximos Pasos o Mejoras Futuras**
+  - Mejorar la funcionalidad de la página agregando interactividad con JavaScript.
+  - Implementar un sistema de filtrado avanzado de películas.
+  - Agregar una sección de detalles para cada película con más información visual.
+
+
+
+
+
+
+
