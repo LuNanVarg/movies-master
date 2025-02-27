@@ -51,12 +51,14 @@
 ### **📂 Estructura del Proyecto**
 
  ```bash
-📦 Movies-Master  
- ├── 📄 index.html            # Página principal replicada  
- ├── 📂 css/                  # Archivos de estilo CSS  
- ├── 📂 js/                   # Archivos JavaScript  
- ├── 📄 README.md             # Este archivo con la descripción del proyecto  
- └── 📄 requirements.txt      # Lista de dependencias para el entorno (si aplica)
+📦 Movies-Master
+ ├── 📂 css/                        # Archivos de estilo CSS
+ ├── 📂 HTML/                       # Archivos de estilo HTML
+ ├── 📂 JS/                         # Archivos JavaScript  
+ ├── 📂 assets/                     # Imagenes
+ ├── 📂 documentacion/              # Documentación
+ ├── 📄 README.md                   # Este archivo con la descripción del proyecto
+ └── 📄 index.html                  # Página principal replicada  
 ```
    
 ---
